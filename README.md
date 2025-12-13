@@ -3,26 +3,13 @@
 ## DevOps Engineer in Training | Cloud & Infrastructure Enthusiast
 
 I'm actively transitioning into DevOps, building hands-on skills in cloud infrastructure, containerization, and automation. Currently focused on mastering the core technologies that power modern DevOps practices.
-
 ---
-
 ## 🎯 Current Focus
-
 - 🐳 Learning Docker containerization
 - ☁️ Earning AWS Educate badges (EC2, S3, IAM)
 - 🐧 Strengthening Linux fundamentals
-
 ---
-
 ## 🛠️ Technologies & Tools
-
-### 📚 Currently Learning
-- Docker containerization & best practices
-- AWS cloud services and architecture
-- Infrastructure automation concepts
-
----
-
 ## 📖 My Learning Path
 
 Following a structured approach to DevOps:
@@ -36,16 +23,12 @@ Following a structured approach to DevOps:
 7. ⏳ **Terraform & Jenkins** - IaC and CI/CD automation
 
 ---
-
 ## 🏆 Certifications & Learning
-
 - 🎓 AWS Educate - [https://www.credly.com/users/farhan-mendhro/badges]
 - 📚 Hands-on labs and practice environments
-
 ---
 
 ## 🚀 What I'm Building
-
 As I learn, I'm working on practical projects to solidify my understanding:
 
 - Setting up containerized applications with Docker
@@ -53,7 +36,6 @@ As I learn, I'm working on practical projects to solidify my understanding:
 - Automating repetitive tasks with shell scripts
 
 *More projects coming soon as I progress through my learning path!*
-
 ---
 
 ## 💡 About Me
