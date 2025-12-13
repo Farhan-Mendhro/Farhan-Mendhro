@@ -16,23 +16,10 @@ I'm actively transitioning into DevOps, building hands-on skills in cloud infras
 
 ## 🛠️ Technologies & Tools
 
-### ✅ Comfortable With
-- **Operating Systems:** Linux (command-line, shell scripting)
-- **Cloud Platform:** AWS (EC2, S3, IAM basics)
-- **Containerization:** Docker (learning)
-- **Version Control:** Git & GitHub
-
 ### 📚 Currently Learning
 - Docker containerization & best practices
 - AWS cloud services and architecture
 - Infrastructure automation concepts
-
-### 🎯 On My Roadmap
-- Kubernetes (container orchestration)
-- Ansible (configuration management)
-- Terraform (Infrastructure as Code)
-- Jenkins (CI/CD pipelines)
-- Python (automation scripting)
 
 ---
 
@@ -68,7 +55,6 @@ As I learn, I'm working on practical projects to solidify my understanding:
 *More projects coming soon as I progress through my learning path!*
 
 ---
-
 
 ## 💡 About Me
 
