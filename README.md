@@ -6,14 +6,6 @@ I'm actively transitioning into DevOps, building hands-on skills in cloud infras
 
 ---
 
-## 🎯 Current Focus
-
-- 🐳 Learning Docker containerization
-- ☁️ Earning AWS Educate badges (EC2, S3, IAM)
-- 🐧 Strengthening Linux fundamentals
-
----
-
 ## 📖 My Learning Path
 
 Following a structured approach to DevOps:
@@ -38,8 +30,6 @@ Following a structured approach to DevOps:
 ## 💡 About Me
 
 I'm passionate about infrastructure automation and building reliable, scalable systems. While I'm early in my DevOps journey, I'm committed to hands-on learning and staying current with industry best practices.
-
-**Open to:** Junior DevOps roles, internships, and collaborative learning opportunities
 
 ---
 
