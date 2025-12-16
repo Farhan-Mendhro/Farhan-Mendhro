@@ -17,6 +17,7 @@ Following a structured approach to DevOps:
 5. ⏳ **Kubernetes** - Container orchestration
 6. ⏳ **Ansible** - Configuration management
 7. ⏳ **Terraform & Jenkins** - IaC and CI/CD automation
+8. ⏳ Prometheus & Grafana - Monitoring and observability
 
 ---
 
