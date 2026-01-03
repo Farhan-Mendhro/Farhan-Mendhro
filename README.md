@@ -11,13 +11,15 @@ I'm actively transitioning into DevOps, building hands-on skills in cloud infras
 Following a structured approach to DevOps:
 
 1. ✅ **Linux & Networking** - Core OS and command-line fundamentals
-2. 🔄 **Docker** - Containerization (in progress)
-3. 🔄 **AWS** - Cloud fundamentals via AWS Educate (in progress)
-4. ⏳ **Python** - Scripting for automation
-5. ⏳ **Kubernetes** - Container orchestration
-6. ⏳ **Ansible** - Configuration management
-7. ⏳ **Terraform & Jenkins** - IaC and CI/CD automation
-8. ⏳ Prometheus & Grafana - Monitoring and observability
+2. ✅ **Git** - Version control and collaboration
+3. 🔄 **Docker** - Containerization (in progress)
+4. ⏳ **Ansible** - Configuration management and automation
+5. ⏳ **Terraform** - Infrastructure as Code (IaC)
+6. ⏳ **Kubernetes** - Container orchestration
+7. ⏳ **GitHub Actions & ArgoCD** - CI/CD pipelines and GitOps
+8. ⏳ **AWS** - Cloud platform and services
+9. ⏳ **Python** - Scripting for automation
+10. ⏳ **Prometheus & Grafana** - Monitoring and observability
 
 ---
 
