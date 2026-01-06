@@ -12,9 +12,9 @@ Following a structured approach to DevOps:
 
 1. ✅ **Linux & Networking** - Core OS and command-line fundamentals
 2. ✅ **Git** - Version control and collaboration
-3. 🔄 **Docker** - Containerization (in progress)
-4. ⏳ **Ansible** - Configuration management and automation
-5. ⏳ **Terraform** - Infrastructure as Code (IaC)
+3. ✅ **Docker** - Containerization (in progress)
+4. 🔄 **Ansible** - Configuration management and automation
+5. 🔄 **Terraform** - Infrastructure as Code (IaC)
 6. ⏳ **Kubernetes** - Container orchestration
 7. ⏳ **GitHub Actions & ArgoCD** - CI/CD pipelines and GitOps
 8. ⏳ **AWS** - Cloud platform and services
