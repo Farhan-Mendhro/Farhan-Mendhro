@@ -14,7 +14,7 @@ Following a structured approach to DevOps:
 2. ✅ **Git** - Version control and collaboration
 3. ✅ **Docker** - Containerization
 4. ✅ **Shell Scripting** - Automation and task orchestration
-5. 🔄 **Ansible** - Configuration management and automation
+5. ✅ **Ansible** - Configuration management and automation
 6. 🔄 **Terraform** - Infrastructure as Code (IaC)
 7. ⏳ **Kubernetes** - Container orchestration
 8. ⏳ **GitHub Actions & ArgoCD** - CI/CD pipelines and GitOps
