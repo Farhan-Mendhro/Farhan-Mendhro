@@ -16,7 +16,7 @@ Following a structured approach to DevOps:
 4. ✅ **Shell Scripting** - Automation and task orchestration
 5. ✅ **Ansible** - Configuration management and automation
 6. 🔄 **Terraform** - Infrastructure as Code (IaC)
-7. ⏳ **Kubernetes** - Container orchestration
+7. 🔄 **Kubernetes** - Container orchestration
 8. ⏳ **GitHub Actions & ArgoCD** - CI/CD pipelines and GitOps
 9. ⏳ **AWS** - Cloud platform and services
 10. ⏳ **Python** - Scripting for automation
